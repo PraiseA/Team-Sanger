@@ -6,5 +6,11 @@ Am currently in my final year of Masters of Science in Bioinformatics. I have a 
 3. Amarachukwu
 4. Ruth Nanjala <img src="https://avatars.githubusercontent.com/u/55382239?s=48&v=4" alt="RuthNanje" width="200" height="200" />
 5. Praise
-6. Marvelous
-7. Oluwatosin Orababa 
+##
+7. **Marvellous Oyebanjo**
+
+![Photo](https://user-images.githubusercontent.com/88282876/127785448-3c775844-f15a-4210-ab74-a383917d3b0d.jpg)
+##
+
+
+8. Oluwatosin Orababa 
