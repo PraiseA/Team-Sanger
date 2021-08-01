@@ -13,20 +13,12 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 
 [comment]: <> (Amarachukwu's profile)
 2. **Amarachukwu Chike-Onyeche**
-<table>
-  <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="200" height="200" /></td>
-    <td></td>
-  </tr>
-</table>
 
-3. Ruth Nanjala <img src="https://avatars.githubusercontent.com/u/55382239?s=48&v=4" alt="RuthNanje" width="200" height="200" />
-5. Praise
-##
-7. **Marvellous Oyebanjo**
+3. Ruth Nanjala
+4. Praise
+
+5. **Marvellous Oyebanjo**
 
 ![Photo](https://user-images.githubusercontent.com/88282876/127785448-3c775844-f15a-4210-ab74-a383917d3b0d.jpg)
-##
 
-
-8. Oluwatosin Orababa 
+6. Oluwatosin Orababa 
