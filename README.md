@@ -5,7 +5,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="100" height="100" /></td>
-    <td>Am currently in my final year of Masters of Science in Bioinformatics. <br /> I have a little advanced skills in Linux and Bash scripting , Intermediate with python and R. My interests are more into Cancer Genomics</td>
+    <td>Fredrick is a Final year student of Masters of Science in Bioinformatics at Makerere University, Uganda.<br /> He holds a Bachelors degree in Biomedical Laboratoty Technology from the same University. He had experience with `R Programming`, `python` and `Bash`.<br />. My interests are more into Cancer Genomics</td>
   </tr>
 </table>
 
