@@ -7,12 +7,19 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="200" height="200" /></td>
-    <td>Fredrick is a Final year student of Masters of Science in Bioinformatics at Makerere University, Uganda.<br \> He holds a Bachelors degree in Biomedical Laboratoty Technology from the same University. He has<br \>experience with R Programming, python and Bash. His research interests lie in Cancer Genomics, Transcriptomics, Data science and Drug development</td>
+    <td>Fredrick is a Final year student of Masters of Science in Bioinformatics at Makerere University, Uganda.<br \> He holds a Bachelors degree in Biomedical Laboratoty Technology from the same University. He has<br \>experience with R Programming, python and Bash. His research interests lie in Cancer Genomics, Transcriptomics, Data science and Drug development.</td>
   </tr>
 </table>
 
 [comment]: <> (Amarachukwu's profile)
-2. ** Amarachukwu Chike-Onyeche **
+2. **Amarachukwu Chike-Onyeche**
+<table>
+  <tr>
+    <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="200" height="200" /></td>
+    <td></td>
+  </tr>
+</table>
+
 3. Ruth Nanjala <img src="https://avatars.githubusercontent.com/u/55382239?s=48&v=4" alt="RuthNanje" width="200" height="200" />
 5. Praise
 ##
