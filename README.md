@@ -1,6 +1,9 @@
 # **Hack Bio Internship**
 HackBio is a 5-week virtual research internship that is practice-oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
 # **Team Sanger**
+
+[comment]: <> (Fredrick's Profile)
+
 1. **Fredrick Kakembo**  
 <table>
   <tr>
@@ -10,8 +13,8 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 </table>
 
 
-3. Amarachukwu
-4. Ruth Nanjala <img src="https://avatars.githubusercontent.com/u/55382239?s=48&v=4" alt="RuthNanje" width="200" height="200" />
+2. Amarachukwu
+3. Ruth Nanjala <img src="https://avatars.githubusercontent.com/u/55382239?s=48&v=4" alt="RuthNanje" width="200" height="200" />
 5. Praise
 ##
 7. **Marvellous Oyebanjo**
