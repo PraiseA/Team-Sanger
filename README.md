@@ -3,7 +3,6 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 # **Team Sanger**
 
 [comment]: <> (Fredrick's Profile)
-
 1. **Fredrick Kakembo**  
 <table>
   <tr>
