@@ -18,15 +18,13 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 4. Praise
 5. 
 [comment]: <> (Marvellous' Profile)
-5. **Marvellous Oyebanjo**
+5.  **Marvellous Oyebanjo**
 <table>
   <tr>
-    <td><img src="" alt="Marvellous" /><td>
-    <td><a href="www.linkedin.com/in/marvellous-oyebanjo">Marvellous</a> is a first-year graduate student of Animal Breeding and Genetics at the University of Ibadan, Nigeria. He is deeply interested in Genomic data scienct - especialy statistical genomics, Next-Generations Sequencing (NGS) and Whole Genome Sequencing (WGS) data analysis.<br /\></td>
+    <td><img src="" alt="Marvellous" /></td>
+    <td><a href="www.linkedin.com/in/marvellous-oyebanjo">Marvellous</a> is a first-year graduate student of Animal Breeding and Genetics at the University of Ibadan, Nigeria. He is deeply interested in genomic data science - with emphasis on statistical genomics, next-generation sequencing (NGS) and whole genome sequencing (WGS) data analysis.<br /\></td>
   </tr>
  </table>
- 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
