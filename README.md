@@ -1,7 +1,7 @@
 # **Hack Bio Internship**
 HackBio is a 5-week virtual research internship that is practice-oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
 # **Team Sanger**
-1. **Fredrick Kakembo** 
+1. **Fredrick Kakembo**    
 <img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="100" height="100" /> | Am currently in my final year of Masters of Science in Bioinformatics. I have a little advanced skills in Linux and Bash scripting , Intermediate with python and R. My interests are more into Cancer Genomics
 --|--
 
