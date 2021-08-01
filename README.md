@@ -7,7 +7,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="200" height="200" /></td>
-    <td>Fredrick is a Final year student of Masters of Science in Bioinformatics at<br \>Makerere University, Uganda. He holds a Bachelors degree in Biomedical<br \>Laboratoty Technology from the same University. He has experience with R Programming, python and Bash. His research interests lie in Cancer Genomics, Transcriptomics, Data science and Drug development.</td>
+    <td>Fredrick is a Final year student of Masters of Science in Bioinformatics at<br \>Makerere University, Uganda. He holds a Bachelors degree in Biomedical<br \>Laboratoty Technology from the same University. He has experience with <br \>R Programming, python and Bash. His research interests lie in Cancer Genomics, Transcriptomics, Data science and Drug development.</td>
   </tr>
 </table>
 
