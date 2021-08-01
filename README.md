@@ -4,7 +4,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 1. **Fredrick Kakembo**  
 <table>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="150" height="150" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="200" height="200" /></td>
     <td>Fredrick is a Final year student of Masters of Science in Bioinformatics at Makerere University, Uganda. He holds <br /> a Bachelors degree in Biomedical Laboratoty Technology from the same University. He had experience with R Programming, python and Bash.<br />. His research interests lie in Cancer Genomics, Transcriptomics, Data science and Drug development</td>
   </tr>
 </table>
