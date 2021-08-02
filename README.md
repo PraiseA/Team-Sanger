@@ -61,3 +61,11 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 <td>How to reach me on LinkedIn: https://www.linkedin.com/in/heshica-battina-chowdary-736308211</td>
 </tr>
  </table>
+
+
+[comment]: <> (Ernesto’s Profile)
+**1. Ernesto O. Dibia**  
+<table>
+  <tr>
+    <td><img src="" alt="Ernesto" width="200" height="200" /></td>
+    <td><a href="http://linkedin.com/in/ernesto-oluwafemi-dibia-781bb9155">Ernesto</a> is a Biomedical Laboratory scientist with a specialty in Virology. He is a Bioinformatics enthusiast, and is excited to be on this project.
