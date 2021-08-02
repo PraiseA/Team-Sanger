@@ -26,7 +26,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 <table>
   <tr>
     <td><img src="https://media-exp1.licdn.com/dms/image/C4E03AQHc1VIUPMtCsQ/profile-displayphoto-shrink_400_400/0/1580990216210?e=1633564800&v=beta&t=Tawz4MLw0zpwiGahj0raZfV7Uu6Y9BmgSepp93FUrAs" alt="Nanjala" width="200" height="200" /></td>
-    <td><a href="https://www.linkedin.com/in/ruth-nanjala-17991117a/">Ruth</a> is a Final year Masters of Science student in Bioinformatics at<br \>Pwani University, Kenya. She holds a Bachelor of Science degree in Microbiology from the same University. She has experience with <br \>R Programming, python, Bash and MySQL programming languages. Her research interests lie in: <br \>Cancer Genomics <br \>Immuno Genomics <br \>Human Genetics <br \>Population Genetics.<br /\></td>
+    <td><a href="https://www.linkedin.com/in/ruth-nanjala-17991117a/">Ruth</a> is a Final year Masters of Science student in Bioinformatics at<br \>Pwani University, Kenya. She holds a Bachelor of Science degree in Microbiology from the same University. She has experience with <br \>R Programming, python, Bash and MySQL programming languages. Her research interests lie in Cancer<br \>Genomics, Immuno<br \>Genomics, Human<br \>Genetics, Population<br \>Genomics.<br /\></td>
   </tr>
 </table>
 
@@ -50,7 +50,6 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
  </table>
 
 
-
 **6. Oluwatosin Orababa**
 
 **7. Boluwatife Adewale**
@@ -61,6 +60,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 **8. Heshica Battina Chowdary**
 <table>
   <tr>
+<td><img src="https://avatars.githubusercontent.com/u/88286312?s=400&u=9b84197d1a5dd0abfb0072daf1c6405de4cf0768&v=4" alt="Heshica" width="200" height="200" /></td>
 <td>Heshica is a 1st year Undergraduate Biotechnology student in Central University of Rajasthan , India. She is interested in Computational biology mainly emphasizing on Pharmaceutical and Medical Biotechnology. Her areas of interest are Stem Cell research,regenerative medicine along with medical and Pharmaceutical Biotechnology.She is currently learning about Genomics and Bioinformatics.She is looking to collaborate on Bioscience related projects emphasizing on drug development, design and discovery along with Genomics projects.<br \>.<br /\></td>
 <td>How to reach me on LinkedIn: https://www.linkedin.com/in/heshica-battina-chowdary-736308211</td>
 </tr>
