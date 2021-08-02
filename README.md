@@ -24,9 +24,6 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 
 
 
-
-
-
 **3. Ruth Nanjala**
 
 
@@ -53,3 +50,4 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 **6. Oluwatosin Orababa**
 
 **7. Boluwatife Adewale**
+**8. Heshica Battina Chowdary**
