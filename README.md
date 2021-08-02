@@ -3,7 +3,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 # **Team Sanger**
 
 [comment]: <> (Fredrick's Profile)
-1. **Fredrick .E. Kakembo**  
+**1. Fredrick .E. Kakembo**  
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/42891354?v=4" alt="Fredrick" width="200" height="200" /></td>
@@ -12,7 +12,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 </table>
 
 [comment]: <> (Amarachukwu's profile)
-2. **Amarachukwu Chike-Onyeche**
+**2. Amarachukwu Chike-Onyeche**
 
 <table>
   <tr>
@@ -27,13 +27,12 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 
 
 
-3. Ruth Nanjala
+**3. Ruth Nanjala**
 
-[comment]: <> (Praise's profile)
-5. Achinebiri Praise C.
+**4. Praise**
  
 [comment]: <> (Marvellous' Profile)
-5. **Marvellous O. Oyebanjo**
+**5. Marvellous O. Oyebanjo**
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/88282876?v=4" alt="Marvellous" width="200" height="200" /></td>
@@ -43,4 +42,6 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 
 
 
-6. Oluwatosin Orababa 
+**6. Oluwatosin Orababa**
+
+**7. Boluwatife Adewale**
