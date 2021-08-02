@@ -52,7 +52,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 **7. Boluwatife Adewale**
 
 
-[comment]:<>(Heshica's Profile)
+[comment]: <> (Heshica's Profile)
 
 **8. Heshica Battina Chowdary**
 <table>
