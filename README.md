@@ -16,9 +16,9 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 
 3. Ruth Nanjala
 4. Praise
-5. 
+ 
 [comment]: <> (Marvellous' Profile)
-5.  **Marvellous O. Oyebanjo**
+5. **Marvellous O. Oyebanjo**
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/88282876?v=4" alt="Marvellous" width="200" height="200" /></td>
