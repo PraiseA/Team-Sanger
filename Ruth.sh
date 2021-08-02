@@ -16,4 +16,4 @@ SLACK_UNAME="@Nanje"
 BIOSTACK="Genomics, Data Science"
 
 #Printing out the output Each on a new line
-printf "My name is: $NAME \nEmail address: $EMAIL \nSlack Username: $SLACK_UNAME \nBiostack: $BIOSTACK"
+printf "My name is: $NAME \nEmail address: $EMAIL \nSlack Username: $SLACK_UNAME \nBiostack: $BIOSTACK\n"
