@@ -29,7 +29,15 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 
 **3. Ruth Nanjala**
 
-**4. Praise**
+
+[comment]: <> (Praise's profile)
+**4. Achinebiri Praise C.**
+<table>
+  <tr> 
+     <td><img src="https://avatars.githubusercontent.com/u/83349086?s=400&u=e912fadd5c4784aa490d460d2a072c8161ab6f74&v=4" alt="Praise" width="1000" height="200" /></td>
+     <td><a href="https://www.linkedin.com/in/praise-achinebiri">Praise</a> has a Bachelor of Science degree in Biochemistry from Caleb University, Nigeria. She has experience with R, and python programming languages. She also has intermediate knowledge of some bioinformatics algorithm tools. She is currently seeking to apply for a Masters program in Biochemistry and Molecular Biology, with interests in Drug design, Bioinformatics, Impact of diet on chronics diseases and Transcriptomics.<br /\></td>
+  </tr>
+  </table>
  
 [comment]: <> (Marvellous' Profile)
 **5. Marvellous O. Oyebanjo**
