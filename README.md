@@ -14,6 +14,19 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 [comment]: <> (Amarachukwu's profile)
 2. **Amarachukwu Chike-Onyeche**
 
+<table>
+  <tr>
+     <td><img src="https://avatars.githubusercontent.com/u/83126208?v=4" alt="Amarachukwu" width="600" height="200" /></td>
+     <td><a href="https://www.linkedin.com/in/amarachukwu-chike-onyeche">Amarachukwu</a> has a Master of Science degree in Biomedical Sciences with a specialisation in Clinical Biochemistry from Middlesex University, London. She also holds a Bachelors degree in Biochemistry from the University of PortHarcourt, Nigeria. She has experience with ELISA, Ligandtracing, LC-MS, MALDI-TOF bioanalytical techniques and R, python and SQL programming languages. She also has intermediate knowledge of some bioinformatics algorithm tools. She is currently seeking for PhD studentship, with interests in Cancer Genomics, drug design, New generation sequencing(NGS), whole genome sequencing(WGS) and Transcriptomics.<br /\></td>
+  </tr>
+  </table>
+
+
+
+
+
+
+
 3. Ruth Nanjala
 4. Praise
  
