@@ -16,5 +16,5 @@ MyDetails = function(Name, Email, slack_username, biostack) {
   )
   print (details)
   }
-MyDetails("Oluwatosin Orababa", "oluwatosinorababa@gmail.com", "@Oluwatosin", "microbial genomics, genomic epidemiology, and data science")
+MyDetails("Oluwatosin Orababa", "oluwatosinorababa@gmail.com", "@Oluwatosin", "microbial genomics")
 
