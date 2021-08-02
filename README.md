@@ -50,4 +50,13 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 **6. Oluwatosin Orababa**
 
 **7. Boluwatife Adewale**
+
+
+[comment]:<>(Heshica's Profile)
 **8. Heshica Battina Chowdary**
+<table>
+  <tr>
+<td>Heshica is a 1st year Undergraduate graduate Biotechnology student in Central University of Rajasthan , India. She is interested in Computational biology mainly emphasizing on Pharmaceutical and Medical Biotechnology. My areas of interest are Stem Cell research,regenerative medicine along with medical and Pharmaceutical Biotechnology.She is currently learning about Genomics and Bioinformatics.She is looking to collaborate on Bioscience related projects emphasizing on drug development, design and discovery along with Genomics projects.<br \>data analysis.<br /\></td>
+<td><Hiw to reach me on LinkedIn: https://www.linkedin.com/in/heshica-battina-chowdary-736308211
+</tr>
+ </table>
