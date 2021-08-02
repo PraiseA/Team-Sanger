@@ -1,0 +1,28 @@
+#include <iostream>
+
+
+    using namespace std;
+
+int main() {
+ 
+ char fullname;
+ char email;
+ char slack_username;
+ char biostack;
+
+ cout << endl<<"Amarachukwu Chike-Onyeche";
+ cin>>fullname;
+ cout<<endl<<"amaraonyichike@gmail.com";
+ cin>>email;
+ cout<<endl<<"@Amarachukwu";
+ cin>>slack_username;
+ cout<<endl<<"Genomics";
+ cin>>biostack;
+ cout<<endl<<fullname<<endl;
+ cout<<endl<<email<<endl;
+ cout<<endl<<slack_username<<endl;
+ cout<<endl<<biostack<<endl;
+
+
+    return 0;
+}
