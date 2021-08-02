@@ -60,7 +60,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 **8. Heshica Battina Chowdary**
 <table>
   <tr>
-<td><img src="https://avatars.githubusercontent.com/u/88286312?s=400&u=9b84197d1a5dd0abfb0072daf1c6405de4cf0768&v=4" alt="Heshica" width="10000" height="1000" /></td>
+<td><img src="https://avatars.githubusercontent.com/u/88286312?s=400&u=9b84197d1a5dd0abfb0072daf1c6405de4cf0768&v=4" alt="Heshica" width="1000" height="200" /></td>
 <td>Heshica is a 1st year Undergraduate Biotechnology student in Central University of Rajasthan , India. She is interested in Computational biology mainly emphasizing on Pharmaceutical and Medical Biotechnology. Her areas of interest are Stem Cell research,regenerative medicine along with medical and Pharmaceutical Biotechnology.She is currently learning about Genomics and Bioinformatics.She is looking to collaborate on Bioscience related projects emphasizing on drug development, design and discovery along with Genomics projects.https://www.linkedin.com/in/heshica-battina-chowdary-736308211<br \>.<br /\></td>
 </tr>
  </table>
