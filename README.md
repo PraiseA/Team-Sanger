@@ -88,6 +88,6 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 <table>
   <tr>
     <td><img src="https://ca.slack-edge.com/T025KDN24L8-U029NDF6Q13-5f2fe8d522d1-192" alt="David-enoma" width="400" height="200" /></td>
-    <td><a href="https://www.linkedin.com/in/david-enoma-a4925a8b/">David Enoma (LinkedIn)</a> is a Graduate with a Bachelor's of Science in Biochemistry and Molecular Biology from<br \>Jomo Kenyatta University of Agriculture and Technology, Nairobi.She specialized in Molecular biology and Plant molecular breeding. She is at beginner level learning <br \>R Programming and python. Her research interests lie in Data science <br \>Genomics, Transcriptomics, Next Generation Sequencing and Drug development.<br /\></td>
+    <td><a href="https://www.linkedin.com/in/david-enoma-a4925a8b/">David Enoma (LinkedIn)</a></td>
   </tr>
   </table>
