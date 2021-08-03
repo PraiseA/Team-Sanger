@@ -70,7 +70,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 **9. Ernesto .O. Dibia**  
 <table>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/88302025?s=400&v=4" alt="Ernesto" width="200" height="200" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/88302025?s=400&v=4" alt="Ernesto" width="200" height="250" /></td>
     <td><a href="http://linkedin.com/in/ernesto-oluwafemi-dibia-781bb9155">Ernesto</a> is a graduate of Biomedical Laboratory Science at<br \>The University of Ibadan, Nigeria. He specialized in<br \>Virology during his first degree. He has no experience with <br \>R Programming, and python, but he is looking to work hard to climb the ladders  of bioinformatics within and beyond the duration of this internship. His interest and biostack is<br \>Genomics, as well as inclinations towards Transcriptomics, and Data science.<br /\></td>
   </tr>
 </table>
