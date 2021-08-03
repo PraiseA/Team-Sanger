@@ -49,4 +49,16 @@ for i in Team-Sanger/*.cpp
                 ./$i | sed -z 's/\n/,/g;s/,$/\n/' >> sanger.csv
         done
 
+#write every details written in java
+for i in Team-Sanger/*.java
+        do
+                ./$i | sed -z 's/\n/,/g;s/,$/\n/' >> sanger.csv
+        done
+
+#write every details written in php
+for i in Team-Sanger/*.php
+        do
+                ./$i | sed -z 's/\n/,/g;s/,$/\n/' >> sanger.csv
+        done
+
 rm -rf Team-Sanger
