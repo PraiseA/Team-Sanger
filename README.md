@@ -67,7 +67,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 
 
 [comment]: <> (Ernesto Profile)
-**1. Ernesto .O. Dibia**  
+**9. Ernesto .O. Dibia**  
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/88302025?s=400&v=4" alt="Ernesto" width="200" height="200" /></td>
