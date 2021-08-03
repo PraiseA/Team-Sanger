@@ -13,7 +13,7 @@ EMAIL="ruthnanjala97@gmail.com"
 SLACK_UNAME="@Nanje"
 
 #My preferred Biostack
-BIOSTACK="Genomics, Data Science"
+BIOSTACK="Genomics & Data Science"
 
 #Printing out the output Each on a new line
-printf "My name is: $NAME \nEmail address: $EMAIL \nSlack Username: $SLACK_UNAME \nBiostack: $BIOSTACK\n"
+printf "$NAME, $EMAIL, $SLACK_UNAME, $BIOSTACK\n"

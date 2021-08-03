@@ -1,5 +1,5 @@
 <?php
-$name = "Ruth";
+$name = "Ruth Nanjala";
 $email = "ruthnanjala97@gmail.com";
 $suname = "@Nanje";
 $Biostack = "Genomics & Data Science";
