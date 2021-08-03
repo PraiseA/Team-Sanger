@@ -5,10 +5,10 @@
 
 int main()
 {
-    printf("\n Name: Achinebiri Praise C");
-    printf("\n Email: richpraise36@gmail.com");
-    printf("\n Username: @Praise");
-    printf("\n Biostack: Drug Development");
+    printf("\n Achinebiri Praise C");
+    printf("\n richpraise36@gmail.com");
+    printf("\n @Praise");
+    printf("\n Drug Development");
 
     return 0;
 }
