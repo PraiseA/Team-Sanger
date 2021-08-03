@@ -1,28 +1,18 @@
+
+// C++ Program that prints my Name, Email, Slack_username and Biostack
+
 #include <iostream>
+using namespace std;
 
+#define MAX_LENGTH 100
 
-    using namespace std;
-
-int main() {
- 
- char fullname;
- char email;
- char slack_username;
- char biostack;
-
- cout << endl<<"Amarachukwu Chike-Onyeche";
- cin>>fullname;
- cout<<endl<<"amaraonyichike@gmail.com";
- cin>>email;
- cout<<endl<<"@Amarachukwu";
- cin>>slack_username;
- cout<<endl<<"Genomics";
- cin>>biostack;
- cout<<endl<<fullname<<endl;
- cout<<endl<<email<<endl;
- cout<<endl<<slack_username<<endl;
- cout<<endl<<biostack<<endl;
-
+int main()
+{	
+	cout<<"Name : Amarachukwu Chike-Onyeche "<<"\n";
+	cout<<"Email : amaraonyichike@gmail.com"<<"\n";
+	cout<<"Slack_username : @Amarachukwu"<<"\n";
+	cout<<"Biostack : Genomics";
+            
 
     return 0;
 }
