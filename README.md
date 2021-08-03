@@ -85,7 +85,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
   </tr>
   </table>
   
-    [comment]: <> (David's Profile)
+    
 **11. David Enoma**
 <table>
   <tr>
