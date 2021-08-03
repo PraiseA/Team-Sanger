@@ -8,10 +8,10 @@ using namespace std;
 
 int main()
 {	
-	cout<<"Name : Amarachukwu Chike-Onyeche "<<"\n";
-	cout<<"Email : amaraonyichike@gmail.com"<<"\n";
-	cout<<"Slack_username : @Amarachukwu"<<"\n";
-	cout<<"Biostack : Genomics";
+	cout<<"Amarachukwu Chike-Onyeche "<<"\n";
+	cout<<"amaraonyichike@gmail.com"<<"\n";
+	cout<<"@Amarachukwu"<<"\n";
+	cout<<"Genomics";
             
 
     return 0;
