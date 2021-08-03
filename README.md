@@ -80,7 +80,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 **10. Cynthia Orinda**
 <table>
   <tr>
-    <td><img src="https://i.imgur.com/txDJlJz.jpg" alt="Cynthia" width="900" height="300" /></td>
+    <td><img src="https://i.imgur.com/txDJlJz.jpg" alt="Cynthia" width="600" height="300" /></td>
     <td><a href="https://www.linkedin.com/in/orinda/">Cynthia</a> is a Graduate with a Bachelor's of Science in Biochemistry and Molecular Biology from<br \>Jomo Kenyatta University of Agriculture and Technology, Nairobi.She specialized in Molecular biology and Plant molecular breeding. She is at beginner level learning <br \>R Programming and python. Her research interests lie in Data science <br \>Genomics, Transcriptomics, Next Generation Sequencing and Drug development.<br /\></td>
   </tr>
   </table>
