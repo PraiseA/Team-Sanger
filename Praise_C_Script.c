@@ -26,11 +26,11 @@ int main()
     strcpy(str1, "Praise");
     strcpy(str2, "PR@I$E");
     
-    printf("Achinebiri Praise C, ");
-    printf("richpraise36@gmail.com, ");
-    printf("Praise @Drug Development, ");
-    printf("PR@I$E, ");   
-    printf("and %o\n", hammingDist (str1, str2));
+    printf("Achinebiri Praise C,");
+    printf("richpraise36@gmail.com,");
+    printf("@Praise,Drug Development,");
+    printf("@PR@I$E,");   
+    printf("%o\n", hammingDist (str1, str2));
     
     return 0;
 }
