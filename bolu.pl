@@ -1,4 +1,4 @@
 #!/usr/bin/perl
 #Written in perl
-#Print each item on a fresh line
-print "Boluwatife ADEWALE\nboluadeleye03\@gmail.com\n\@Bolu\nTranscriptomics\n"
+#Print each items separated by comma
+print "Boluwatife ADEWALE,boluadeleye03\@gmail.com,\@Bolu,Transcriptomics,\@bb_linux\n"
