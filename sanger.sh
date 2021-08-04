@@ -44,7 +44,7 @@ for i in Team-Sanger/*.c
         done
 
 #write every details written in C++
-for i in Team-Sanger/Amarachukwu_C++script.cpp
+for i in Team-Sanger/*.cpp
         do
                 ./$i | sed -z 's/\n/,/g;s/,$/\n/' >> sanger.csv
         done
