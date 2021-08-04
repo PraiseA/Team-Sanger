@@ -1,5 +1,37 @@
 #Task 1
-print('David Enoma')
-print('davidenoma@gmail.com')
-print('David')
-print('Transcriptomics, Data Science')
+name = "David Enoma"
+email = "davidenoma@gmail.com"
+username = "@David"
+biostack = "Transcriptomics and Data Science"
+twitter = "@davidenoma_"
+hamming_distance=""
+
+hamming_distance <- function(username,twitter){
+  lenUser = nchar(username)
+  lenTwitter = nchar(twitter)
+  ham = 0
+  add = 0
+  if (lenUser != lenTwitter) {
+    add = abs(lenUser - lenTwitter)
+    i = 1
+    while (i <= lenUser && lenUser <= lenTwitter) {
+      if (substr(username,i,i) != substr(twitter,i,i)){
+          ham = ham + 1
+      }
+      i = i+1
+    }
+  }
+  else{
+    i = 1
+    while (i <= lenUser) {
+      if (substr(username,i,i) != substr(twitter,i,i)){
+        ham = ham + 1
+      }
+      i = i+1
+    }
+  }
+  
+  return (ham+add)
+  }
+
+paste(res,sep = ",")
