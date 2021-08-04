@@ -20,7 +20,7 @@ int hammingDist(char *str1, char *str2)
  
     
 
-// calculating hamming_distance between slack_username and twitter_handle
+// calculating hamming distance between slack_username and twitter handle
 // C++ script printing my name, email, slack_username, biostack, twitter_handle and hamming_distance
 
 #include <iostream>
@@ -37,6 +37,7 @@ int main()
 	cout<<"amaraonyichike@gmail.com"<<",";
 	cout<<"@Amarachukwu"<<",";
 	cout<<"Genomics"<<",";
+	cout<<"@Amara_chike"<<",";
 	cout<<hammingDist (str1, str2);
 	
             
