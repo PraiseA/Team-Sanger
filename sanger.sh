@@ -9,7 +9,7 @@ chmod a+x *
 cd ..
 
 #define header row for csv file
-header=NAME,EMAIL,USERNAME,BIOSTACK
+header=NAME,EMAIL,USERNAME,BIOSTACK,TWITTER_HANDLE,HAMMING_DISTANCE
 #write header row to csv file
 echo $header > sanger.csv
 

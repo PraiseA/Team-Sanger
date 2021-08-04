@@ -90,6 +90,16 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 <table>
   <tr>
     <td><img src="https://ca.slack-edge.com/T025KDN24L8-U029NDF6Q13-5f2fe8d522d1-192" alt="David-enoma" width="200" height="200" /></td>
-    <td><a href="https://www.linkedin.com/in/david-enoma-a4925a8b/">David Enoma (LinkedIn)</a> </td>
+    <td><a href="https://www.linkedin.com/in/david-enoma-a4925a8b/">David Enoma (LinkedIn)</a> </td> 
   </tr>
   </table>
+  
+**12. Gladys Rotich**  
+<table>
+  <tr>
+    <td><img src="https://pbs.twimg.com/profile_images/1335894119185575937/OpHaX6f2.jpg" 
+    alt="Gladys" width="400" height="120" /></td>
+   <td><a href="https://www.linkedin.com/in/gladys-rotich-021bb018b">Gladys</a> is a MSc Bioinformatics student at Pwani University, Kenya. She holds a Bachelors degree in Microbiology from the same institution. She has experience with R Programming, python and Bash. Her research interests lie in Infectious diseases, Genomics, Data science and neglected tropical diseases.<br /\></td>
+  </tr>
+  </table>
+  
