@@ -93,6 +93,7 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
     <td><a href="https://www.linkedin.com/in/david-enoma-a4925a8b/">David Enoma (LinkedIn)</a> </td> 
   </tr>
   </table>
+  
 **12. Gladys Rotich**  
 <table>
   <tr>
