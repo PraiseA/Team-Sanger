@@ -9,7 +9,7 @@ chmod a+x *
 cd ..
 
 #define header row for csv file
-header=NAME,EMAIL,USERNAME,BIOSTACK
+header=NAME,EMAIL,USERNAME,BIOSTACK,TWITTER_HANDLE,HAMMING_DISTANCE
 #write header row to csv file
 echo $header > sanger.csv
 
@@ -44,7 +44,7 @@ for i in Team-Sanger/*.c
         done
 
 #write every details written in C++
-for i in Team-Sanger/*.cpp
+for i in Team-Sanger/Amarachukwu_C++script.cpp
         do
                 ./$i | sed -z 's/\n/,/g;s/,$/\n/' >> sanger.csv
         done
