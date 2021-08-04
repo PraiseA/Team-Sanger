@@ -17,7 +17,7 @@ biostack="Genomics"
 
 
 #Printing out the output Each on a new line
-print("My name is: %s \nEmail: %s \nSlack Username: %s \nBiostack: %s\n" % (name,email,s_uname,biostack))
+#print("My name is: %s \nEmail: %s \nSlack Username: %s \nBiostack: %s\n" % (name,email,s_uname,biostack))
 
-#Print the output on the same line but tab-separated
-print("%s\t%s\t%s\t%s"% (name,email,s_uname,biostack))
+#Print the output on the same line but comma-separated
+print("%s,%s,%s,%s"% (name,email,s_uname,biostack))
