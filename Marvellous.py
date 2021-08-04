@@ -23,7 +23,7 @@ Biostack = "Genomics"
 Twitter_Handle = "@MarvellousOye"
 
 
-print("{}, {}, {}, {}, {}".format(Name, Email_Address, Slack_Username, Biostack, Twitter_Handle))
+print("{},{},{},{},{}".format(Name, Email_Address, Slack_Username, Biostack, Twitter_Handle))
 
 
 
