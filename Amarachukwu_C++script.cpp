@@ -1,5 +1,5 @@
 // C++ program to find hamming distance b/w
-// two string
+// two strings
  
 // function to calculate Hamming distance
 int hammingDist(char *str1, char *str2)
@@ -36,7 +36,7 @@ int main()
 	cout<<"@Amarachukwu"<<",";
 	cout<<"Genomics"<<",";
 	cout<<"@Amara_chike"<<",";
-	cout<<hammingDist (str1, str2);
+	cout<<hammingDist (str1, str2)<<"\n";
 	
             
 
