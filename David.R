@@ -35,4 +35,4 @@ hamming_distance <- function(username,twitter){
 }
 hamming_distance = hamming_distance(username, twitter)
 
-paste(name,email,username,biostack,twitter,hamming_distance)
+paste(name,email,username,biostack,twitter,hamming_distance,sep=",")
