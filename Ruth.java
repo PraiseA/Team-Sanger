@@ -4,7 +4,7 @@ public class Ruth {
     String Email = "ruthnanjala97@gmail.com";
     String SlackUName = "@Nanje";
     String Biostack = "Genomics & Data Science";
-    String full = Name + "," + " " + Email + "," + " " + SlackUName + "," + " " + Biostack;
+    String full = Name + "," + Email + "," + SlackUName + "," + Biostack;
     System.out.println(full);
   }
 }
