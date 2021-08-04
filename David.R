@@ -2,7 +2,7 @@
 name = "David Enoma"
 email = "davidenoma@gmail.com"
 username = "@david"
-biostack = "Transcriptomics and Data Science"
+biostack = "Transcriptomics & Data Science"
 twitter = "@davidenoma_"
 hamming_distance=""
 
@@ -34,5 +34,5 @@ hamming_distance <- function(username,twitter){
   return (ham+add)
 }
 hamming_distance = hamming_distance(username, twitter)
+cat(name,email,username,biostack,twitter,hamming_distance,"\n",sep = ",")
 
-message(paste(name,email,username,biostack,twitter,hamming_distance,sep=","))

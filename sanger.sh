@@ -31,10 +31,10 @@ done
 #write every details written in R after converting to comma separated
 #for i in Team-Sanger/*.R
 
-	#for R_script in *.R
-#do
-#	Rscript $R_script >> sanger.csv
-#done
+for R_script in *.R
+do
+	Rscript $R_script >> sanger.csv
+done
 
 #write every details written in bash after converting to comma separated
 #for i in Team-Sanger/Ruth.sh
