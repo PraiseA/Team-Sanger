@@ -1,7 +1,5 @@
 // C++ program to find hamming distance b/w
 // two string
-#include<bits/stdc++.h>
-using namespace std;
  
 // function to calculate Hamming distance
 int hammingDist(char *str1, char *str2)
