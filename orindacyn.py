@@ -15,7 +15,7 @@ s_uname="@Orinda"
 #My preferred Biostack
 biostack="Genomics&Transcriptomics"
 
-
+#print output on the same line
 print("%s\t%s\t%s\t%s"% (name,email,s_uname,biostack))
 
 
