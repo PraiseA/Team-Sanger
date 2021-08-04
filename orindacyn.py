@@ -12,7 +12,7 @@ email="orinda.cynthia@gmail.com"
 #Slack Username
 s_uname="@Orinda"
 
-#My preferred Biostack
+#My selected Biostack
 biostack="Genomics&Transcriptomics"
 
 #print the output on a singleline but comma-separated
