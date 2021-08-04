@@ -22,22 +22,35 @@ Biostack = "Genomics"
 #Twitter Handle
 Twitter_Handle = "@MarvellousOye"
 
-# Python3 program to find hamming distance b/w two string
+#Calculate the Hamming distance, d, betwwen the twitter handle and slack username
 
-# Function to calculate Hamming distance
-def hammingDist (str1, str2):
-    i = 0
-    count = 0
+#Initialise the value of Hamming distance, d
+d=0
 
-    while(i < len(str1)):
-        if(str1[i] != str2[i]):
-            count += 1
-        i += 1
-    return count
+#Check if slack username is longer than or equal to twitter handle
+if len(Slack_Username) >= len(Twitter_Handle):
+    #Iterate over the letters of the slack username and check letter per letter whether it mismatches
+    for i in range(len(Slack_Username)):
+        #This is to catch instances where the shorter string falls out of range with the indexing
+        try:
+                #If the index letter for slack username and twitter are different, increase the value of d by one
+                if Slack_Username[i].lower() != Twitter_Handle[i].lower():
+                        d=d+1
+        except:
+                #When the shorter string falls out of range, still increase the value d by one for each instance
+                d=d+1
 
-# Driver code
-str1 = "MarvellousOye"
-str2 = "MarvellousOye"
+#This portion will only run in case its twitter handle is longer than the slack username.
+#The rest of the code applies a similar approach as defined above.
+elif len(Twitter_Handle) > len(Slack_Username):
+    for i in range(len(Twitter_Handle)):
+            try:
+                    if Twitter_Handle[i].lower() != Slack_Username[i].lower():
+                            d=d+1
+            except:
+                    d=d+1
+#print(d)
 
-# function call
-print("{},{},{},{},{},{}".format(Name, Email_Address, Slack_Username, Biostack, Twitter_Handle, hammingDist (str1, str2)))
+#Print the output on the same line but comma-separated
+print("{},{},{},{},{},{}".format(Name, Email_Address, Slack_Username, Biostack, Twitter_Handle, d))
+
