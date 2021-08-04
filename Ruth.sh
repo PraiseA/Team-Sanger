@@ -13,7 +13,10 @@ EMAIL="ruthnanjala97@gmail.com"
 SLACK_UNAME="@Nanje"
 
 #My preferred Biostack
-BIOSTACK="Genomics & Data Science"
+BIOSTACK="Genomics"
+
+#Twitter
+TWITTER="@Ruthnanje"
 
 #Printing out the output Each on a new line
 printf "$NAME, $EMAIL, $SLACK_UNAME, $BIOSTACK\n"
