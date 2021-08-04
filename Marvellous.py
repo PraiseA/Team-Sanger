@@ -19,9 +19,17 @@ Slack_Username = "@Marvellous"
 #Biostack
 Biostack = "Genomics"
 
+#Twitter Handle
+Twitter_Handle = "@MarvellousOye"
 
-#Printing each output on a new line
-print("{}\n{}\n{}\n{}".format(Name, Email_Address, Slack_Username, Biostack))
+
+print("{}, {}, {}, {}, {}".format(Name, Email_Address, Slack_Username, Biostack, Twitter_Handle))
+
+
+
+
+
+
 
 
 
