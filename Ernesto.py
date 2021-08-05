@@ -1,23 +1,48 @@
-#!/usr/bin/env python3
-
-
 #Defining my variables
 
-#My name
-name="Ernesto O. Dibia"
+#Name
+Name = "Ernesto O. Dibia"
 
-#my email address
-email="dibiaernesto97@gmail.com"
+#Email Address
+Email_Address = "dibiaernesto97@gmail.com"
 
 #Slack Username
-s_uname="@Ernesto"
+Slack_Username = "@Ernesto"
 
-#My preferred Biostack
-biostack="Genomics"
+#Biostack
+Biostack = "Genomics"
 
+#Twitter
+Twitter = "@DibiaErnesto"
 
-#Printing out the output Each on a new line
-print("My name is: %s \nEmail: %s \nSlack Username: %s \nBiostack: %s\n" % (name,email,s_uname,biostack))
+#To calculate the Hamming distance, h, between the slack username and twitter handle.
+#Determine that the value of Hamming distance, h
+h=0
 
-#Print the output on the same line but tab-separated
-print("%s\t%s\t%s\t%s"% (name,email,s_uname,biostack))
+#Check if slack username is longer than or equal to twitter handle
+
+if len(Slack_Username) >= len(Twitter):
+    #Peruse letters of the slack username and twitter for possible mismatches
+for i in range(len(Slack_Username)):
+    #In instances where the shorter stringis out of range with the indexing
+try:
+    #If the index letter for slack username and twitter are different, increase the value of h by one
+if Slack_Username[i].lower() !=Twitter[i].lower():
+    h=h+1
+    except:
+    #When the shorter string is out of range, still increase the h value by one
+    h=h+1
+
+    #This section runs in the event that the twitter handle is longer than the slack username.
+    #The other parts of the code applies a similar defined approach.
+elif len(Twitter) > len(Slack_Username):
+    for i in range(len(Twitter)):
+        try:
+            if Twitter[i].lower() != Slack_Username[i].lower():
+                h=h+1
+        except:
+            h=h+1
+            #print(h)
+
+#Printing each output on a new line
+print ("{}\n{}\n{}\n{}\n{}\n{}".format(Name, Email_Address, Slack_Username, Biostack, Twitter, h))
