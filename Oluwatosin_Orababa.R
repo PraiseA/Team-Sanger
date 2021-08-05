@@ -2,7 +2,7 @@
 
 Name="Oluwatosin Qawiyy ORABABA"
 Email="oluwatosinorababa@gmail.com"
-Slack_username="@Oluwatosin"
+Slack_username="@Toxhin"
 Biostack="Genomics"
 Twitter_handle="@Horabz"
 hamming_distance= ""
