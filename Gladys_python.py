@@ -28,4 +28,4 @@ def hammingDist(Slack_username,Twitter):
 hammingDistance=hammingDist(Slack_username,Twitter)
 
 #Printing  comma separated strings
-print("Name: {},Email_address: {},Slack_username: {},Biostack: {},Twitter: {},hammingDistance: {}".format(Name,Email_address,Slack_username,Biostack,Twitter,hammingDistance))
+print("{},{},{},{},{},{}".format(Name,Email_address,Slack_username,Biostack,Twitter,hammingDistance))
