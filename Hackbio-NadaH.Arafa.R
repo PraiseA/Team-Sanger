@@ -16,7 +16,7 @@ twitter = "@Nada_Hussien_" #Twitter username
 x = (username) #slack: @user name
 y = (twitter) #Twitter username
 
-hamming_distance(x,y)
+#hamming_distance(x,y)
 
 hamming_distance <- function(x,y){
   lenUser = nchar(x)
