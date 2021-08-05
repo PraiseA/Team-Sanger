@@ -1,11 +1,11 @@
 #BioHack Task 1
 #title:("Biohack Task") 
 
-name = print("Nada Hussien Arafa") #name
-email = print("nada.hussien73@gmail.com") #email
-username = print("@NadaHussienArafa") #slack: @user name 
-biostack = print("Biotechnology") #biostack
-twitter = print("@Nada_Hussien_") #Twitter username 
+name = "Nada Hussien Arafa" #name
+email = "nada.hussien73@gmail.com" #email
+username = "@NadaHussienArafa" #slack: @user name 
+biostack = "Biotechnology" #biostack
+twitter = "@Nada_Hussien_" #Twitter username 
 
 
 
@@ -48,6 +48,4 @@ hamming_distance <- function(x,y){
 hamming_distance = hamming_distance(x, y)
 
 #Printing variables on one line with "," as separation
-cat(name,email,username,biostack ,twitter,hamming_distance,sep = ",")
-
-
+message(paste(name,email,username,biostack ,twitter,hamming_distance,sep = ","))
