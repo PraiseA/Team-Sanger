@@ -103,3 +103,13 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
   </tr>
   </table>
   
+
+    
+  [comment]: <> (NadaHussienArafa's Profile)
+**13. Nada Hussien Arafa**  
+<table>
+  <tr>
+    <td><img src="https://github.com/NadaHussienArafa" width="200" height="200" /></td>
+    <td><a href="https://www.linkedin.com/in/nada-arafa-3832b0152/">NadaHussienArafa</a> is a Master's degree student in Biotechnology, Chemistry Department at The Faculty of Sciences, Cairo University. I have experience in Molecular Biology and Microbiology,Environmental Biotechnology, Plant Biotechnology Techniques as it is my major. I know how to SPSS (intermediate level) as I use SPSS to analyse my data for my Master's Degree in Biotechnology and R (Beginner).<br /\></td>
+  </tr>
+</table>
