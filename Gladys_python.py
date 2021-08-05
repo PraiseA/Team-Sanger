@@ -27,6 +27,5 @@ def hammingDist(Slack_username,Twitter):
     return count
 hammingDistance=hammingDist(Slack_username,Twitter)
 
-#Printing each output on a new line
-print("Name: {}\nEmail_address: {}\nSlack_username: {}\nBiostack: {}\nTwitter: {}\nhammingDistance: {}".format(Name, Email_address , 
-Slack_username , Biostack , Twitter, hammingDistance)) 
+#Printing  comma separated strings
+print("Name: {}, Email_address: {}, Slack_username: {}, Biostack: {}, Twitter: {}, hammingDistance: {}".format(Name, Email_address , Slack_username , Biostack , Twitter, hammingDistance))
