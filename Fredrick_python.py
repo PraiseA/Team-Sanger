@@ -16,7 +16,7 @@ s_uname="@Fredrick"
 biostack="Genomics"
 
 #Twitter handle
-twitter="@FredricKKakembo"
+twitter="@FredricoKakembo"
 
 #Calculate the Hamming distance, d between the twitter handle and slack username
 

@@ -15,4 +15,26 @@ Slack_username="@Heshica"
 
 Biostack="Drug Development and Genomics"
 
-print("%s,%s,%s,%s"% (Name, Email_id, Slack_username, Biostack))
+twitter="@HeshicaBattina"
+
+d=0
+
+if len(Slack_username)>= len(twitter):
+
+  for i in range(len(Slack_username)):
+   try:
+     if Slack_username[i].lower() != twitter[i].lower():
+      d=d+1
+
+   except:
+      d=d+1
+elif len (twitter)>len(Slack_username):
+    for i in range(len(twitter)):
+     try:
+      if twitter[i].lower() != Slack_username[i].lower():
+              d=d+1
+     except:
+                d=d+1
+
+
+print("%s,%s,%s,%s,%s,%s "% (Name, Email_id, Slack_username, Biostack,twitter,d))
