@@ -15,7 +15,7 @@ Slack_username="@Heshica"
 
 Biostack="Drug Development and Genomics"
 
-twitter="@HeshicaBattina"
+twitter="@Heshicabattina"
 
 d=0
 
