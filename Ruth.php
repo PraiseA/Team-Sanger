@@ -1,9 +1,7 @@
 <?php
 // php code
 // Assign variables
-?>
 
-<?php
 $name = "Ruth Nanjala";
 $email = "ruthnanjala97@gmail.com";
 $suname = "@Nanje";

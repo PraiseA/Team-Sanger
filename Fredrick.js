@@ -57,4 +57,4 @@ if (s_uname.length == twitter.length) {
 
 // Print out the values
 
-console.log(name + "," + email + "," + s_uname + "," + biostack + "," +d);
+console.log(name + "," + email + "," + s_uname + "," + biostack + "," + twitter + "," + d);

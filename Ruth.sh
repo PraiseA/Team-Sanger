@@ -13,7 +13,7 @@ EMAIL=ruthnanjala97@gmail.com
 SLACK_UNAME=@Nanje
 
 #My preferred Biostack
-BIOSTACK=Genomics
+BIOSTACK="Genomics & Data Science"
 
 #Twitter
 TWITTER=@Ruthnanje
