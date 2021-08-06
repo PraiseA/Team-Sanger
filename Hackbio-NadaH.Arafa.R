@@ -48,4 +48,4 @@ hamming_distance <- function(x,y){
 hamming_distance = hamming_distance(x, y)
 
 #Printing variables on one line with "," as separation
-message(paste(name,email,username,biostack ,twitter,hamming_distance,sep = ","))
+cat(name,email,username,biostack,twitter,hamming_distance,'\n', sep = ","))
