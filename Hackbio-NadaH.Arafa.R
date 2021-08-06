@@ -4,7 +4,7 @@
 name = "Nada Hussien Arafa" #name
 email = "nada.hussien73@gmail.com" #email
 username = "@NadaHussienArafa" #slack: @user name 
-biostack = "Biotechnology" #biostack
+biostack = "Genetics" #biostack
 twitter = "@Nada_Hussien_" #Twitter username 
 
 
