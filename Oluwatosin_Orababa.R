@@ -39,4 +39,4 @@ hamming_distance = hamming_distance(Slack_username, Twitter_handle)
 
 
 #Print variables on same line with comma separation
-message(paste(Name, Email, Slack_username, Biostack, Twitter_handle, hamming_distance, sep=","))
+cat(Name, Email, Slack_username, Biostack, Twitter_handle, hamming_distance, sep=",")
