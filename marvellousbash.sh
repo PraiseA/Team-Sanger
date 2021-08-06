@@ -1,13 +1,19 @@
 #!/usr/bin/env bash
+
 #Defining variables
+
 #Name
 Name="Marvellous O. Oyebanjo"
+
 #Email Address
 Email_Address="marveloye@gmail.com"
+
 #Slack Username
 Slack_Username="@Marvellous"
+
 #Biostack
 Biostack="Genomics"
+
 #Twitter Handle
 Twitter_Handle="@MarvellousOye"
 #program to calculate the Hamming distance between 2 strings
@@ -41,4 +47,4 @@ then
         m=$((m+diff))
 fi
 #Printing out the output
-printf "$Name,$Email_Address,$Slack_Username,$Biostack,$Twitter_handle,$m\n"
+printf "$Name,$Email_Address,$Slack_Username,$Biostack,$Twitter_Handle,$m\n"
