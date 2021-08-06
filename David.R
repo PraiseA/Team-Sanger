@@ -34,4 +34,4 @@ hamming_distance <- function(username,twitter){
   return (ham+add)
 }
 hamming_distance = hamming_distance(username, twitter)
-message(cat(name,email,username,biostack,twitter,hamming_distance,sep = ","))
+cat(name,email,username,biostack,twitter,hamming_distance,"\n",sep = ",")
