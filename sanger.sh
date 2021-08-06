@@ -8,7 +8,7 @@ Program_exists() {												  #
         echo "This script requires $1 but it's not installed. Please install and try again.";  exit 1 ;		  #
         fi  }													  #
 														  #
-for program in "javac" "java" "python" "g++" "gcc" "Rscript" "perl" "bash" "node" "php"; do			  #
+for program in "javac" "java" "python3" "g++" "gcc" "Rscript" "perl" "bash" "node" "php"; do			  #
     Program_exists "${program}"; done										  #
 														  #
 ###################################################################################################################
@@ -33,7 +33,7 @@ do
 
 	#Python scripts
         py)
-                python $script >> sanger.out ;;
+                python3 $script >> sanger.out ;;
 
         #R Scripts
 	R)
