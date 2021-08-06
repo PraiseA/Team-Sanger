@@ -1,4 +1,4 @@
-# **HackBio Internship**
+<h1 align="center"><pre>HackBio  &nbsp;&nbsp; <img src="https://media-exp1.licdn.com/dms/image/C560BAQFjlxo9cjfMZg/company-logo_200_200/0/1598491079984?e=1636588800&v=beta&t=miSEM_OTCANe9QXeKQVgmbqwxWnPVW-j5s97YHO9myI" alt="Fredrick" width="100" height="100" />  &nbsp;&nbsp;  Internship</pre></h1>
 HackBio is a 5-week virtual research internship that is practice-oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
 # **Team Sanger**
 
