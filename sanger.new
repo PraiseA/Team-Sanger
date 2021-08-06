@@ -1,0 +1,66 @@
+#!/usr/bin/bash
+
+#clone repo
+#git clone https://github.com/PraiseA/Team-Sanger.git
+
+#Check if the outputfile exists, if yes delete and recreate empty one, or create new otherwise
+if [ -f sanger.out ]; then rm sanger.out; touch sanger.out; else  touch sanger.out; fi
+if [ -f sanger.csv ]; then rm sanger.csv;  fi
+
+for script in $(ls)
+do
+        extension=${script##*\.}
+
+        case $extension in
+
+	#Python scripts
+        py)
+                python $script >> sanger.out ;;
+
+        #R Scripts
+	R)
+                Rscript $script | sed 's/,$//' >> sanger.out ;;
+
+	# Perl scripts
+	pl)
+		perl $script >> sanger.out ;;
+
+	#For bash scripts
+	sh)
+                if [ $script != sanger.sh ]; then
+                	bash $script >> sanger.out
+		fi ;;
+
+	#For C scripts
+	c)
+		gcc $script
+		./a.out >> sanger.out
+	        rm a.out ;;
+ 	
+	#For C++ scripts
+	cpp)
+		g++ $script
+		./a.out >> sanger.out
+	        rm a.out ;;
+        
+	#For Java scripts
+	java)
+		javac $script
+		j_class=$(echo $script | sed 's/.java//')
+		java $j_class >> sanger.out
+		rm ${j_class}.class ;;
+	
+	# For PHP scripts
+	php)
+		php $script >> sanger.out ;;
+	
+	# For javascript scripts 
+	js)
+		node $script >>sanger.out ;;
+	esac
+done
+
+sort sanger.out | uniq > sanger.csv 
+rm sanger.out
+
+#rm -rf Team-Sanger
