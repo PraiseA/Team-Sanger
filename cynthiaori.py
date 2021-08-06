@@ -4,19 +4,19 @@
 #Defining my variables
 
 #My name
-name="Cynthia Orinda"
+name="Cynthia Orinda,"
 
 #my email address
-email="orinda.cynthia@gmail.com"
+email="orinda.cynthia@gmail.com,"
 
 #Slack Username
-s_uname="@Orinda"
+s_uname="@Orinda,"
 
 #My preferred Biostack
-biostack="Genomics&Transcriptomics"
+biostack="Genomics&Transcriptomics,"
 
 #my twitter handle
-twitter="cynthia_orinda"
+twitter="cynthia_orinda,"
 
 def hamming_distance(s_uname,twitter):
     count=0
