@@ -34,4 +34,4 @@ def hamming_distance(s_uname,twitter):
     return count
         
 #print the output on a singleline but comma-separated
-cat(name,email,s_uname,biostack,twitter,hamming_distance(s_uname,twitter), sep=',')
+print(name,email,s_uname,biostack,twitter,hamming_distance(s_uname,twitter))
