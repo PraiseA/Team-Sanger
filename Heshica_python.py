@@ -37,4 +37,4 @@ elif len (twitter)>len(Slack_username):
                 d=d+1
 
 
-print("%s,%s,%s,%s,%s,%s "% (Name, Email_id, Slack_username, Biostack,twitter,d))
+print("%s,%s,%s,%s,%s,%s"% (Name, Email_id, Slack_username, Biostack,twitter,d))
