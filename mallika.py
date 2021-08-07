@@ -2,7 +2,7 @@
 #Defining my variables
 
 #name
-name="Mallika"
+name="Mallika Gakhar"
 
 #email address
 email="malika.21313@gmail.com"
