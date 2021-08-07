@@ -1,0 +1,11 @@
+python v3
+R for Rscript command
+javac
+java
+g++
+gcc
+bash
+perl
+php
+node  #To run javascript 
+
