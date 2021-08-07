@@ -1,5 +1,15 @@
-<h1 align="center"><pre>HackBio  &nbsp;&nbsp; <img src="https://media-exp1.licdn.com/dms/image/C560BAQFjlxo9cjfMZg/company-logo_200_200/0/1598491079984?e=1636588800&v=beta&t=miSEM_OTCANe9QXeKQVgmbqwxWnPVW-j5s97YHO9myI" alt="Fredrick" width="100" height="100" />  &nbsp;&nbsp;  Internship</pre></h1>
-HackBio is a 5-week virtual research internship that is practice-oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills.
+# HackBio Internship
+<h1 align="center"><pre>HackBio    <img src="https://media-exp1.licdn.com/dms/image/C560BAQFjlxo9cjfMZg/company-logo_200_200/0/1598491079984?e=1636588800&v=beta&t=miSEM_OTCANe9QXeKQVgmbqwxWnPVW-j5s97YHO9myI" alt="Fredrick" width="100" height="100" />    Internship</pre></h1>
+<p align="center"><b> Task one </b></p>
+
+HackBio Internship is a 5-week virtual research internship that is practice-oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills. Its aimed at having the successful interns master the skills in atleast one of the Bioinformatics specialization provided in their biostack. It's open to everyone in the world and free of charge to join 😉 with no entry restrictions, but rather a PC and your commitment as the requirement. 
+
+The biostacks (areas of specialization) considered in the internship are **Genomics**, **drug development**, **vaccine informatics**, **medicinal chemistry**, **cheminformatics**, **data analysis**, **software development**, **science communication**, **publication image design** and **bioinformatics frontend/UI/UX**
+
+The intership involves 5 different stages (0-4), and by default everyone that joins the intership starts at stage zero 0️⃣. For you to advance to the next stage, you're required to accompolish a given task within a week and in a group of 20 members. When you fail to complete the task within the stated period, you're evicted from the internship and don't get to progress to the next stage. 
+
+
+
 # **Team Sanger**
 
 [comment]: <> (Fredrick's Profile)
